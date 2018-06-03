@@ -1,14 +1,16 @@
-# CREATE REACT APP + BOOTSTRAP 4 + FONT AWESOME 4.7
+## CREATE REACT APP + BOOTSTRAP 4 + FONT AWESOME 4.7
 
 
-## CREATE REACT APP
+### CREATE REACT APP
     create-react-app myapp
-## REPLACEMENT
+### REPLACEMENT
     /src
     package.json
-## INSTALL DEPENDENCIES:
+### INSTALL DEPENDENCIES:
     npm install
     
+    
+    ## package.json
     ### Dependencies
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
@@ -29,5 +31,5 @@
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject"
     }
-  ## START DEV SERVER
+  ### START DEV SERVER
       yarn start
