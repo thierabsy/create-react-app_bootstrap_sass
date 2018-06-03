@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+.App{
+    color: $color;
+    text-align: center;
+}
+.Footer{
+    color: gray;
+    text-align: center;
+}
+.Header{
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+    button{
+        margin: 5px 10px;
+    }
+}
+h3{
+    a{
+        color: gray;
+        font-size: 13px;
+        
+    }
+}
